@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Travel Easy</string>
+
+    <string name="veicle_type">Veicle Type:</string>
+    <string name="starting_point">Starting Point:</string>
+    <string name="ending_point">Ending Point:</string>
+    <string name="ticket_price">Ticket Price:</string>
+    <string name="via">Via:</string>
+    <string name="comment">Comment:</string>
+    <string name="created_by">Created By:</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="view_all_route">View All Route</string>
+    <string name="search">Search</string>
+    <string name="destination">Destination</string>
+    <string name="from">From</string>
+    <string name="launch">Launch</string>
+    <string name="train">Train</string>
+    <string name="bus">Bus</string>
+    <string name="any">Any</string>
+    <string name="error_note_main_activity">Ooops! \n Looks Like you don\'t have any route \n You can always add route from add button below</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="from_colon">From:</string>
+    <string name="vehicle_type_colon">Vehicle Type:</string>
+    <string name="destination_colon">Destination:</string>
+    <string name="error_not_all_route_activity">Ooops! \n Looks Like nobody have added anything \n Be the first to add a route</string>
+    <string name="my_routes">Manage my Routes</string>
+    <string name="search_route">Search Route</string>
+
+
+    <string-array name="city">
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+        <item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Bogra</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Chuadanga</item>
+        <item>Comilla</item>
+        <item>Coxs Bazar</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>
+        <item>Gaibandha</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jaipurhat</item>
+        <item>Jamalpur</item>
+        <item>Jessore</item>
+        <item>Jhalakati</item>
+        <item>Jhenaidah</item>
+        <item>Khagrachari</item>
+        <item>Khulna</item>
+        <item>Kishoreganj</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Lakshmipur</item>
+        <item>Lalmonirhat</item>
+        <item>Madaripur</item>
+        <item>Magura</item>
+        <item>Manikganj</item>
+        <item>Meherpur</item>
+        <item>Moulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Natore</item>
+        <item>Chapai Nawabganj</item>
+        <item>Netrakona</item>
+        <item>Nilphamari</item>
+        <item>Noakhali</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Rajbari</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Rangamati</item>
+        <item>Satkhira</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sirajganj</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+    <string-array name="vehicle_type">
+        <item>Bus</item>
+        <item>Train</item>
+        <item>Launch</item>
+    </string-array>
+
+</resources>
